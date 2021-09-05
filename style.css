@@ -1,8 +1,11 @@
-.navbar-brand img{
-	width: 40px;
+.navbar-brand img {
+  width: 40px;
 }
 
-.header_section{
-	background-color: #d9ebf8;
-
+.header_section {
+  background-color: #d9ebf8;
+}
+.carousel-item > img {
+  height: 600px;
+  object-fit: cover;
 }
